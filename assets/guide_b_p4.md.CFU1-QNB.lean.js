@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as l,ae as t}from"./chunks/framework.BkDzuGyC.js";const h=JSON.parse('{"title":"前端内存泄漏","description":"","frontmatter":{},"headers":[],"relativePath":"guide/b/p4.md","filePath":"guide/b/p4.md"}'),r={name:"guide/b/p4.md"};function i(c,e,n,s,d,p){return l(),a("div",null,e[0]||(e[0]=[t("",44)]))}const m=o(r,[["render",i]]);export{h as __pageData,m as default};
