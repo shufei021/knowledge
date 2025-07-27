@@ -1,5 +1,9 @@
 export default {
     title: 'Note', // ← 这就是你看到的 Logo 后的文字
+    // 打包目录
+    outDir: "../dist",
+    /** 打包项目的根目录 */
+    base: "/knowledge/",
     themeConfig: {
       nav:[
         // {
