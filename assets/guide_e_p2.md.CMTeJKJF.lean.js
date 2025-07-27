@@ -1,0 +1,1 @@
+import{_ as a,c as i,o,ae as s}from"./chunks/framework.BkDzuGyC.js";const g=JSON.parse('{"title":"BFC","description":"","frontmatter":{},"headers":[],"relativePath":"guide/e/p2.md","filePath":"guide/e/p2.md"}'),l={name:"guide/e/p2.md"};function t(n,e,r,d,c,p){return o(),i("div",null,e[0]||(e[0]=[s("",13)]))}const k=a(l,[["render",t]]);export{g as __pageData,k as default};

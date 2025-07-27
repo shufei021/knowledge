@@ -1,0 +1,1 @@
+import{_ as i,c as o,o as t,ae as r}from"./chunks/framework.BkDzuGyC.js";const c=JSON.parse('{"title":"前端性能优化","description":"","frontmatter":{},"headers":[],"relativePath":"guide/b/p2.md","filePath":"guide/b/p2.md"}'),e={name:"guide/b/p2.md"};function a(n,l,s,u,p,d){return t(),o("div",null,l[0]||(l[0]=[r("",11)]))}const h=i(e,[["render",a]]);export{c as __pageData,h as default};

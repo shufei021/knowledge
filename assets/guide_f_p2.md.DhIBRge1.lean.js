@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as l}from"./chunks/framework.BkDzuGyC.js";const E=JSON.parse('{"title":"Vite","description":"","frontmatter":{},"headers":[],"relativePath":"guide/f/p2.md","filePath":"guide/f/p2.md"}'),e={name:"guide/f/p2.md"};function n(h,s,p,d,k,r){return t(),a("div",null,s[0]||(s[0]=[l("",242)]))}const c=i(e,[["render",n]]);export{E as __pageData,c as default};

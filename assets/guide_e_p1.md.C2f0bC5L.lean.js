@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as e,ae as t}from"./chunks/framework.BkDzuGyC.js";const k=JSON.parse('{"title":"flex","description":"","frontmatter":{},"headers":[],"relativePath":"guide/e/p1.md","filePath":"guide/e/p1.md"}'),l={name:"guide/e/p1.md"};function n(h,s,d,p,r,o){return e(),a("div",null,s[0]||(s[0]=[t("",57)]))}const E=i(l,[["render",n]]);export{k as __pageData,E as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as l,o,ae as t}from"./chunks/framework.BkDzuGyC.js";const _=JSON.parse('{"title":"数据大屏适配","description":"","frontmatter":{},"headers":[],"relativePath":"guide/e/p6.md","filePath":"guide/e/p6.md"}'),r={name:"guide/e/p6.md"};function i(d,e,c,n,s,h){return o(),l("div",null,e[0]||(e[0]=[t("",14)]))}const m=a(r,[["render",i]]);export{_ as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.BkDzuGyC.js";const g=JSON.parse('{"title":"自定义指令","description":"","frontmatter":{},"headers":[],"relativePath":"guide/d/p7.md","filePath":"guide/d/p7.md"}'),t={name:"guide/d/p7.md"};function h(p,s,e,k,E,d){return n(),a("div",null,s[0]||(s[0]=[l("",22)]))}const o=i(t,[["render",h]]);export{g as __pageData,o as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as t}from"./chunks/framework.BkDzuGyC.js";const o=JSON.parse('{"title":"uniapp","description":"","frontmatter":{},"headers":[],"relativePath":"guide/f/p5.md","filePath":"guide/f/p5.md"}'),h={name:"guide/f/p5.md"};function k(p,s,l,E,e,r){return n(),a("div",null,s[0]||(s[0]=[t("",72)]))}const F=i(h,[["render",k]]);export{o as __pageData,F as default};

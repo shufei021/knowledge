@@ -1,0 +1,1 @@
+import{_ as e,c as l,o,ae as i}from"./chunks/framework.BkDzuGyC.js";const p=JSON.parse('{"title":"SEO 优化","description":"","frontmatter":{},"headers":[],"relativePath":"guide/b/p5.md","filePath":"guide/b/p5.md"}'),t={name:"guide/b/p5.md"};function r(d,a,s,n,c,h){return o(),l("div",null,a[0]||(a[0]=[i("",9)]))}const u=e(t,[["render",r]]);export{p as __pageData,u as default};

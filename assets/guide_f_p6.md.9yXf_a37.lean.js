@@ -1,0 +1,1 @@
+import{_ as t,c as l,o as i,ae as e}from"./chunks/framework.BkDzuGyC.js";const p=JSON.parse('{"title":"前端架构","description":"","frontmatter":{},"headers":[],"relativePath":"guide/f/p6.md","filePath":"guide/f/p6.md"}'),r={name:"guide/f/p6.md"};function n(o,a,s,d,u,h){return i(),l("div",null,a[0]||(a[0]=[e("",42)]))}const b=t(r,[["render",n]]);export{p as __pageData,b as default};

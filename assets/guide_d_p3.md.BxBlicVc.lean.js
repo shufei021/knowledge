@@ -1,0 +1,1 @@
+import{_ as l,c as i,o,ae as t}from"./chunks/framework.BkDzuGyC.js";const h=JSON.parse('{"title":"Vue 组件通信方式","description":"","frontmatter":{},"headers":[],"relativePath":"guide/d/p3.md","filePath":"guide/d/p3.md"}'),a={name:"guide/d/p3.md"};function r(d,e,u,n,c,s){return o(),i("div",null,e[0]||(e[0]=[t("",9)]))}const g=l(a,[["render",r]]);export{h as __pageData,g as default};

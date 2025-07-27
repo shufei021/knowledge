@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ae as r}from"./chunks/framework.BkDzuGyC.js";const p=JSON.parse('{"title":"vue的生命周期","description":"","frontmatter":{},"headers":[],"relativePath":"guide/d/p1.md","filePath":"guide/d/p1.md"}'),d={name:"guide/d/p1.md"};function n(i,e,c,s,u,l){return o(),t("div",null,e[0]||(e[0]=[r("",22)]))}const b=a(d,[["render",n]]);export{p as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as o,o as r,ae as t}from"./chunks/framework.BkDzuGyC.js";const c=JSON.parse('{"title":"前端首屏优化","description":"","frontmatter":{},"headers":[],"relativePath":"guide/b/p3.md","filePath":"guide/b/p3.md"}'),e={name:"guide/b/p3.md"};function a(n,l,s,p,u,g){return r(),o("div",null,l[0]||(l[0]=[t("",9)]))}const h=i(e,[["render",a]]);export{c as __pageData,h as default};

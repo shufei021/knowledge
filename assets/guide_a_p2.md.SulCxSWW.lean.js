@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as a,ae as c}from"./chunks/framework.BkDzuGyC.js";const u=JSON.parse('{"title":"事件轮询","description":"","frontmatter":{},"headers":[],"relativePath":"guide/a/p2.md","filePath":"guide/a/p2.md"}'),r={name:"guide/a/p2.md"};function d(s,e,i,n,p,l){return a(),t("div",null,e[0]||(e[0]=[c("",4)]))}const g=o(r,[["render",d]]);export{u as __pageData,g as default};

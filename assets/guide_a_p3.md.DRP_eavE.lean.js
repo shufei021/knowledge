@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as t,ae as i}from"./chunks/framework.BkDzuGyC.js";const u=JSON.parse('{"title":"状态码详解","description":"","frontmatter":{},"headers":[],"relativePath":"guide/a/p3.md","filePath":"guide/a/p3.md"}'),d={name:"guide/a/p3.md"};function c(l,e,r,_,n,s){return t(),o("div",null,e[0]||(e[0]=[i("",2)]))}const m=a(d,[["render",c]]);export{u as __pageData,m as default};

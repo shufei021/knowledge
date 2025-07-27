@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as e}from"./chunks/framework.BkDzuGyC.js";const c=JSON.parse('{"title":"1px 问题","description":"","frontmatter":{},"headers":[],"relativePath":"guide/e/p3.md","filePath":"guide/e/p3.md"}'),l={name:"guide/e/p3.md"};function h(n,s,p,k,d,r){return t(),a("div",null,s[0]||(s[0]=[e("",35)]))}const E=i(l,[["render",h]]);export{c as __pageData,E as default};

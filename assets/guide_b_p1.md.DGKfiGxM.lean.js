@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,ae as e}from"./chunks/framework.BkDzuGyC.js";const c=JSON.parse('{"title":"前端缓存","description":"","frontmatter":{},"headers":[],"relativePath":"guide/b/p1.md","filePath":"guide/b/p1.md"}'),n={name:"guide/b/p1.md"};function l(h,s,p,d,o,r){return t(),i("div",null,s[0]||(s[0]=[e("",13)]))}const F=a(n,[["render",l]]);export{c as __pageData,F as default};
