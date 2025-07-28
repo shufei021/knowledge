@@ -4,6 +4,7 @@ export default {
     outDir: "../dist",
     /** 打包项目的根目录 */
     base: "/knowledge/",
+    cleanUrls: true,
     themeConfig: {
       nav:[
         // {
@@ -48,7 +49,7 @@ export default {
               { text: 'CommonJS和模块化', link: '/guide/c/p4' },
               { text: '箭头函数和普通函数的区别', link: '/guide/c/p5' },
               { text: 'requestAnimationFrame', link: '/guide/c/p6' },
-              
+              { text: 'Promise', link: '/guide/c/p7' },
             ]
           },
           {
