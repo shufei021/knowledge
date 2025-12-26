@@ -7,14 +7,26 @@ export default {
     cleanUrls: true,
     themeConfig: {
       nav:[
-        // {
-        //   text: "首页",
-        //   link: "/",
-        // },
-        // {
-        //   text: "前端导航",
-        //   link: "/guide/start",
-        // },
+        {
+          text: "首页",
+          link: "/",
+        },
+        {
+          text: "复习",
+          link: "/guide/start",
+        },
+        {
+          text: "SSR",
+          items: [
+            { text: "nuxt", link: "/nuxt/index" },
+            { text: "nuxt3", link: "/nuxt/nuxt3" },
+            { text: "nuxt4", link: "/nuxt/nuxt4" },
+          ],
+        },
+        {
+          text: "面试题复习",
+          link: "/fuxi/index",
+        },
       ],
       sidebar: {
         '/guide/': [
